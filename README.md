@@ -138,6 +138,11 @@ Ingreso Promedio = AVERAGE('WA_Fn-UseC_-HR-Employee-Attrition'[MonthlyIncome])
 
 **Héctor** — Ingeniero en Logística (ESPOL) | En transición hacia Data Analytics & BI
 
+Profesional con 4 años de experiencia en logística retail, 
+construyendo portafolio en análisis de datos y Business Intelligence.
+
+Aprendiendo: Power BI | DAX | Python | Data Science
+
 - LinkedIn: https://www.linkedin.com/in/h%C3%A9ctor-alvarado-47672419b/
 - GitHub: https://github.com/hector216
 
