@@ -16,19 +16,19 @@ Dashboard interactivo de 3 páginas construido en Power BI para analizar la rota
 
 Vista ejecutiva con KPIs principales: Total Empleados (1,470), Empleados Activos (1,233), Ingreso Promedio ($6,500), Antigüedad Promedio (7.01 años), Empleados Inactivos (237) y Tasa de Rotación (16.12%). Incluye donut de retención de talento, bajas por departamento y top roles con mayor rotación.
 
-![Resumen General RRHH](imagenes/pagina1_resumen_general.png)
+![Resumen General RRHH](image/pagina1_resumen_general.png)
 
 ### Página 2 — Análisis de Rotación
 
 Página estrella del proyecto. Analiza los factores asociados a la rotación usando **tasas porcentuales** para comparaciones justas entre grupos de diferente tamaño. Incluye filtros por Género y Departamento.
 
-![Análisis de Rotación](imagenes/pagina2_analisis_rotacion.png)
+![Análisis de Rotación](image/pagina2_analisis_rotacion.png)
 
 ### Página 3 — Demografía y Salarios
 
 Composición del personal por edad y género, nivel de educación y estado marital. Estructura salarial por rol, educación y departamento. Incluye filtros por Departamento, Attrition y Estado Marital, además de tooltip personalizado con distribución de ingreso por género.
 
-![Demografía y Salarios](imagenes/pagina3_demografia_salarios.png)
+![Demografía y Salarios](image/pagina3_demografia_salarios.png)
 
 ---
 
